@@ -4,15 +4,9 @@ My name is Bruno Nascimento and I'm a Mechanical Engineer :wrench: and an aspira
 
 🌱 I’m currently learning Web/Mobile Development using RectJS, NodeJS and React Native, and learning Game Development using Unreal Engine.
 
-💬 You can check my content on:
-[My Website](https://mechanically.dev)
-[Twitch](https://www.twitch.tv/mechanicallydev)
+💬 You can check my content on [My Website](https://mechanically.dev) or on [Twitch](https://www.twitch.tv/mechanicallydev)
 
-📫 Contact me on:
-[Linkedin](https://www.linkedin.com/in/mechanicallydev)
-[E-mail](mailto:contato@mechanically.dev)
-[Instagram](https://www.instagram.com/mechanicallydev)
-[Twitter](https://twitter.com/MechanicallyDev)
+📫 Contact me on [Linkedin](https://www.linkedin.com/in/mechanicallydev), [E-mail](mailto:contato@mechanically.dev), [Instagram](https://www.instagram.com/mechanicallydev) or [Twitter](https://twitter.com/MechanicallyDev).
 
 <!--
 **MechanicallyDev/MechanicallyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
