@@ -7,16 +7,14 @@ I'm a Mechanical Engineer :wrench:, Web Developer 💻 and Game Developer 🎮, 
 
 💬 You can check my content on [My Website][website] or [Twitch][twitch]
 
-<br />
-
 ### 📫 Connect with me:
+
 [<img alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitch.svg" /> Twitch][twitch]<br />
 [<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Linkedin][linkedin]<br />
 [<img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> Instagram][instagram]<br />
 [<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> Twitter][twitter]<br />
 [<img alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/firefoxbrowser.svg"/> Website][website]<br />
-[<img alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/microsoftoutlook.svg"/> E-mail][email]<br />
-<br />
+[<img alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/microsoftoutlook.svg"/> E-mail][email]
 
 ### Languages and Tools:
 
