@@ -2,20 +2,18 @@
 
 I'm a Mechanical Engineer :wrench:, Web Developer 💻 and Game Developer 🎮, currently living in Brazil.
 
-🌱 I’m currently learning Web/Mobile Development using <img alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/react.svg"/> RectJS,<img alt="NodeJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/node-dot-js.svg"/> NodeJS and React Native, and learning Game Development using <img alt="Unreal Engine" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/unrealengine.svg"/> Unreal Engine.
+🌱 I’m currently learning Web/Mobile Development using RectJS, NodeJS and React Native, and learning Game Development using Unreal Engine.
 
 💬 You can check my content on [My Website][website] or [Twitch][twitch]
 <br />
-<br />
 
 ### 📫 Connect with me:
-
+[<img alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitch.svg" /> Twitch][twitch]<br />
 [<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Linkedin][linkedin]<br />
-[<img alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/firefoxbrowser.svg"/> Website][website]<br />
-[<img alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/microsoftoutlook.svg"/> E-mail][email]<br />
 [<img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> Instagram][instagram]<br />
 [<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> Twitter][twitter]<br />
-<br />
+[<img alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/firefoxbrowser.svg"/> Website][website]<br />
+[<img alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/microsoftoutlook.svg"/> E-mail][email]<br />
 <br />
 
 ### Languages and Tools:
@@ -32,10 +30,6 @@ I'm a Mechanical Engineer :wrench:, Web Developer 💻 and Game Developer 🎮, 
 [<img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-
-<br />
-<br />
----
 
 [website]: https://mechanically.dev
 [email]: mailto:contato@mechanically.dev
