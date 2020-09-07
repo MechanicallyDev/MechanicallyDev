@@ -16,7 +16,7 @@ I'm a Mechanical Engineer :wrench:, Web Developer 💻 and Game Developer 🎮, 
 [<img alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/firefoxbrowser.svg"/> Website][website]<br />
 [<img alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/microsoftoutlook.svg"/> E-mail][email]
 
-### Languages and Tools:
+### 🛠 Languages and Tools:
 
 [<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
