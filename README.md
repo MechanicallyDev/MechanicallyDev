@@ -3,7 +3,7 @@
 
 I'm a Mechanical Engineer :wrench:, Web Developer 💻 and Game Developer 🎮, currently living in Brazil.
 
-🌱 I’m currently learning Web/Mobile Development using RectJS, NodeJS and React Native, and learning Game Development using Unreal Engine.
+🌱 I’m currently learning Web/Mobile Development using ReactJS, NodeJS and React Native, and learning Game Development using Unreal Engine.
 
 💬 You can check my content on [My Website][website] or [Twitch][twitch]
 
