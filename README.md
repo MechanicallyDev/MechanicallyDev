@@ -5,7 +5,6 @@ I'm a Mechanical Engineer :wrench:, Web Developer 💻 and Game Developer 🎮, 
 
 🌱 I’m currently learning Web/Mobile Development using ReactJS, NodeJS and React Native, and learning Game Development using Unreal Engine.
 
-💬 You can check my content on [My Website][website] or [Twitch][twitch]
 
 ### 📫 Connect with me:
 
@@ -13,7 +12,6 @@ I'm a Mechanical Engineer :wrench:, Web Developer 💻 and Game Developer 🎮, 
 [<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Linkedin][linkedin]<br />
 [<img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> Instagram][instagram]<br />
 [<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> Twitter][twitter]<br />
-[<img alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/firefoxbrowser.svg"/> Website][website]<br />
 [<img alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/microsoftoutlook.svg"/> E-mail][email]
 
 ### 🛠 Languages and Tools:
@@ -31,8 +29,8 @@ I'm a Mechanical Engineer :wrench:, Web Developer 💻 and Game Developer 🎮, 
 [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
-[website]: https://mechanically.dev
-[email]: mailto:contato@mechanically.dev
+
+[email]: mailto:brunonascimento.engmec@gmail.com
 [twitter]: https://twitter.com/MechanicallyDev
 [instagram]: https://www.instagram.com/mechanicallydev
 [linkedin]: https://linkedin.com/in/mechanicallydev
